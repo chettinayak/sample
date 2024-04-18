@@ -2,3 +2,4 @@ git log
 git log --1`
 squash
 stash
+jenkin
